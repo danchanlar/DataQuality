@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d.chalandrinou\\Desktop\\DQ_Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d.chalandrinou\\Desktop\\DQ_Tool\\dq_tool\\adapters\\sql_source_adapter.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dq_tool\\adapters\\sql_source_adapter.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d.chalandrinou\\Desktop\\DQ_Tool\\dq_engine\\sql_generators.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dq_engine\\sql_generators.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sql_generators.py",
+              "DocumentMoniker": "C:\\Users\\d.chalandrinou\\Desktop\\DQ_Tool\\dq_engine\\sql_generators.py",
+              "RelativeDocumentMoniker": "dq_engine\\sql_generators.py",
+              "ToolTip": "C:\\Users\\d.chalandrinou\\Desktop\\DQ_Tool\\dq_engine\\sql_generators.py",
+              "RelativeToolTip": "dq_engine\\sql_generators.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-03T06:48:20.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sql_source_adapter.py",
+              "DocumentMoniker": "C:\\Users\\d.chalandrinou\\Desktop\\DQ_Tool\\dq_tool\\adapters\\sql_source_adapter.py",
+              "RelativeDocumentMoniker": "dq_tool\\adapters\\sql_source_adapter.py",
+              "ToolTip": "C:\\Users\\d.chalandrinou\\Desktop\\DQ_Tool\\dq_tool\\adapters\\sql_source_adapter.py",
+              "RelativeToolTip": "dq_tool\\adapters\\sql_source_adapter.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-03T06:48:14.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

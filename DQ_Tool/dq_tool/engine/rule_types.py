@@ -1,0 +1,2 @@
+RULE_TYPES = []
+

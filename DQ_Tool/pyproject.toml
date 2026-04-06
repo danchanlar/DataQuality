@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dq-tool"
+version = "0.1.0"
+description = "DQ Tool with external SQL path discovery"
+requires-python = ">=3.10"
+dependencies = [
+  "streamlit>=1.33",
+  "pyodbc>=5.1",
+  "networkx>=3.0",
+  "sqlparse>=0.5",
+  "pyvis>=0.3",
+]
